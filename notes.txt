@@ -1,0 +1,15 @@
+Thoughts
+Rendering a Gif of the quote
+Gif Making
+Glossary of Quotes
+    Different Sorting Options
+Adding Different Moods 
+    JSON Mood Tags
+    quoteObject = [
+        gif,
+        character, 
+        quote, 
+        moods: {}
+    ]
+Database: MongoDB?
+Free hosting: Heroku/Netlify
